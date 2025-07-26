@@ -245,7 +245,11 @@ body {
   font-weight: bold;
   text-align: left;
 }
-
+.in-touch img{
+  width: 180px;
+  margin-top: 20px;
+  padding: 0 140px;
+}
 .in-touch-right {
   width: 35%;
   margin: 20px auto;
